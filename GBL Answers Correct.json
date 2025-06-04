@@ -1,0 +1,54 @@
+[
+  {
+    "Question": "What is port scanning?",
+    "Correct Answer": "A method of detecting open ports and services on a network or system to identify potential vulnerabilities."
+  },
+  {
+    "Question": "What is the common technology associated with port 443?",
+    "Correct Answer": "Hypertext Transfer Protocol Secure (HTTPS)"
+  },
+  {
+    "Question": "What is the common technology associated with port 80?",
+    "Correct Answer": "Hypertext Transfer Protocol (HTTP)"
+  },
+  {
+    "Question": "What is the use of the search command in Metasploit (Searchsploit)?",
+    "Correct Answer": "Searches for exploits and vulnerabilities in the Exploit-DB database, providing information about known exploits for specific software or systems."
+  },
+  {
+    "Question": "What is CVE?",
+    "Correct Answer": "Common Vulnerabilities and Exposures, a standardized system for cataloging and identifying cybersecurity vulnerabilities."
+  },
+  {
+    "Question": "What is Active Directory?",
+    "Correct Answer": "A Microsoft service for managing network resources, users, and permissions in a Windows domain network."
+  },
+  {
+    "Question": "What is the use of John the Ripper?",
+    "Correct Answer": "A password cracking tool used to detect and recover passwords by performing dictionary, brute-force, or hybrid attacks on password hashes."
+  },
+  {
+    "Question": "What is a salami slicing attack?",
+    "Correct Answer": "A type of cybercrime where small, unnoticeable amounts of data or resources are stolen incrementally over time to avoid detection."
+  },
+  {
+    "Question": "What is XKeyscore?",
+    "Correct Answer": "A surveillance program developed by the NSA for collecting and analyzing global internet data, including emails, browsing history, and online communications."
+  },
+  {
+    "Question": "Which of the following examples shows a subdomain?",
+    "Correct Answer": "cloud.google.com (where 'cloud' is the subdomain of google.com)"
+  },
+  {
+    "Question": "What is the use of the airodump-ng (airodump) command?",
+    "Correct Answer": "A tool in the Aircrack-ng suite used to capture and analyze Wi-Fi packets, identifying networks, clients, and their details."
+  },
+  {
+    "Question": "What is a password hash?",
+    "Correct Answer": "A cryptographic representation of a password, created using a hashing algorithm to securely store passwords."
+  },
+  {
+    "Question": "Which of the following is a communication protocol?",
+    "Correct Answer": "TCP/IP"
+  }
+]
