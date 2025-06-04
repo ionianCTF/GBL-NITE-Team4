@@ -1,4 +1,4 @@
-# Enhancing Cybersecurity Education through Digital Game-Based Learning: A Custom Realistic Scenario
+# Cybersecurity Education using Game-Based Learning: Realistic Scenario Design
 
 ### Evaluation of Game-Based Learning (GBL) using NITE Team 4 and Custom Realistic Scenario
 
